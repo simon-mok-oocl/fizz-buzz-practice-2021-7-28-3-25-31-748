@@ -4,6 +4,6 @@ public class FizzBuzz {
 
     public String countOff(int in)
     {
-        return null;
+        return String.valueOf(in);
     }
 }
